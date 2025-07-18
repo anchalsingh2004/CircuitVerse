@@ -27,10 +27,13 @@ We follow the [Code of Conduct](code-of-conduct.md) of the [CircuitVerse](https:
 See [`SETUP.md`](SETUP.md) for more information on setting up CircuitVerse.
 
 ## Contributing
-See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information on contributing to CircuitVerse.
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for more information on contributing to CircuitVerse
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
 ## Testing with BrowserStack
 This project is tested with BrowserStack.
+ ## Contributors
+ - Anchal Singh
+ 
